@@ -1,0 +1,4 @@
+Navigate to client
+run command: npm run build
+Copy all files in client/dist
+Grab assets and index.html for public_html folder
